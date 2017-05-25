@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<?php
 
-echo "testeeeeeee git";
-?>
 
 <html>
 <title>Controle de Patrimonio ECO</title>
